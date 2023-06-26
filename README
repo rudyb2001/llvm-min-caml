@@ -1,3 +1,15 @@
+This is a modern fork of the `llvm-min-camll` project.
+
+My immediate goals are to explore and document this archived project.
+
+Forking this project made me feel like an archeologist, stumbling upon a
+long-dormant relic of the past. I have beginner level knowledge of OCAML
+and have not yet taken a compilers class. I have never touched LLVM IR.
+
+
+ALL OF THE INFORMATION BELOW IS FROM THE ORIGINAL `llvm-min-caml` PROJECT
+
+
 OVERVIEW:
 
 llvm-min-caml is a compiler for a subset of the OCaml programming
